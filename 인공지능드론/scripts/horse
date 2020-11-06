@@ -1,0 +1,5 @@
+cw 180
+sleep 10
+forward 100
+sleep 10
+land
